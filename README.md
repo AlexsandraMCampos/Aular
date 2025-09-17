@@ -1,5 +1,5 @@
 
-````markdown
+
 <p align="center">
   <img src="https://github.com/AlexsandraMCampos/Aular/raw/main/static/logo.png" alt="Logo Aular" width="200" />
 </p>
